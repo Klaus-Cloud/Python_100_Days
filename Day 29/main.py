@@ -3,7 +3,7 @@ from tkinter import messagebox
 from functions import *
 import pyperclip
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
-#
+
 
 def password_button_clicked():
     newPassword = password_generator()
