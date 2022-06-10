@@ -29,4 +29,6 @@ input = tkinter.Entry(width=10)
 input.insert(1, string="Type here.")
 input.grid(column=3, row=2)
 # Text
+
+# Start the program
 window.mainloop()

@@ -3,7 +3,7 @@ import turtle
 import pandas as pd
 from states import States
 
-screen =Screen()
+screen = Screen()
 screen.title("US States")
 image_Path = "Day 25/us-states-game-start/blank_states_img.gif"
 data_path = "Day 25/us-states-game-start/50_states.csv"

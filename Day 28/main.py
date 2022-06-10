@@ -32,6 +32,8 @@ def reset_timer():
     reset_check_marks()
 
 # ---------------------------- TIMER MECHANISM ------------------------------- #
+
+
 def increase_check_marks():
     global work_round
     work_round += " ✔"
